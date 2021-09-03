@@ -1,0 +1,23 @@
+****************************************************************************************
+Quantity: 45 
+Product ID: 1030 
+Product Name: Mojito
+
+Quantity: 56 
+Product ID: 1025 
+Product Name: badam milk 
+
+Quantity: 65 
+Product ID: 1016 
+Product Name: Lemon Juice
+
+Quantity: 89 
+Product ID: 1028 
+Product Name: mixed juice
+
+Quantity: 25 
+Product ID: 1001 
+Product Name: Dairy Milk
+----------------------------------------
+ Your Payable Amount: 11200
+****************************************************************************************
