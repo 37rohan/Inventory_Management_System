@@ -1,23 +1,27 @@
 ****************************************************************************************
-Quantity: 45 
+Quantity: 13
 Product ID: 1030 
-Product Name: Mojito
+Product Name: Mojito 
+Price: 40 
+Total Price: 40 x 13 
 
-Quantity: 56 
-Product ID: 1025 
-Product Name: badam milk 
+Quantity: 33
+Product ID: 1027 
+Product Name: pista milk 
+Price: 40 
+Total Price: 40 x 33 
 
-Quantity: 65 
-Product ID: 1016 
-Product Name: Lemon Juice
+Quantity: 20
+Product ID: 1015 
+Product Name: Kiwi Juice 
+Price: 40 
+Total Price: 40 x 20 
 
-Quantity: 89 
-Product ID: 1028 
-Product Name: mixed juice
-
-Quantity: 25 
-Product ID: 1001 
-Product Name: Dairy Milk
+Quantity: 23
+Product ID: 1005 
+Product Name: Butter Fruit Juice 
+Price: 40 
+Total Price: 40 x 23 
 ----------------------------------------
- Your Payable Amount: 11200
+ Your Payable Amount: 3560
 ****************************************************************************************
